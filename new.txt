@@ -1,1 +1,5 @@
 New file for second branch.
+
+Now also part of master branch.
+
+And another line of text.
